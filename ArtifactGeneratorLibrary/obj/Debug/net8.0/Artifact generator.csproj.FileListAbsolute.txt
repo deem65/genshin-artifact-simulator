@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\Artifact generator.exe
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\Artifact generator.deps.json
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\Artifact generator.runtimeconfig.json
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\Artifact generator.dll
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\Artifact generator.pdb
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\Artifact generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\Artifact generator.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\Artifact generator.AssemblyInfo.cs
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\Artifact generator.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\Artifact generator.dll
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\refint\Artifact generator.dll
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\Artifact generator.pdb
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\Artifact generator.genruntimeconfig.cache
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\ref\Artifact generator.dll

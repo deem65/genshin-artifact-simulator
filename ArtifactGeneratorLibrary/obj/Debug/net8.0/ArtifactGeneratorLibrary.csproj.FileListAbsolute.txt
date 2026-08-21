@@ -1,0 +1,21 @@
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\ArtifactGeneratorLibrary.exe
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\ArtifactGeneratorLibrary.deps.json
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\ArtifactGeneratorLibrary.runtimeconfig.json
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\ArtifactGeneratorLibrary.dll
+C:\Users\David\source\repos\Artifact generator\bin\Debug\net8.0\ArtifactGeneratorLibrary.pdb
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\ArtifactGeneratorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\ArtifactGeneratorLibrary.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\ArtifactGeneratorLibrary.AssemblyInfo.cs
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\ArtifactGeneratorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\ArtifactGeneratorLibrary.dll
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\refint\ArtifactGeneratorLibrary.dll
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\ArtifactGeneratorLibrary.pdb
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\ArtifactGeneratorLibrary.genruntimeconfig.cache
+C:\Users\David\source\repos\Artifact generator\obj\Debug\net8.0\ref\ArtifactGeneratorLibrary.dll
+C:\Users\David\source\repos\ArtifactGenerator\ArtifactGeneratorLibrary\obj\Debug\net8.0\ArtifactGeneratorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ArtifactGenerator\ArtifactGeneratorLibrary\obj\Debug\net8.0\ArtifactGeneratorLibrary.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ArtifactGenerator\ArtifactGeneratorLibrary\obj\Debug\net8.0\ArtifactGeneratorLibrary.AssemblyInfo.cs
+C:\Users\David\source\repos\ArtifactGenerator\ArtifactGeneratorLibrary\obj\Debug\net8.0\ArtifactGeneratorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ArtifactGenerator\ArtifactGeneratorLibrary\obj\Debug\net8.0\ArtifactGeneratorLibrary.dll
+C:\Users\David\source\repos\ArtifactGenerator\ArtifactGeneratorLibrary\obj\Debug\net8.0\refint\ArtifactGeneratorLibrary.dll
+C:\Users\David\source\repos\ArtifactGenerator\ArtifactGeneratorLibrary\obj\Debug\net8.0\ArtifactGeneratorLibrary.pdb

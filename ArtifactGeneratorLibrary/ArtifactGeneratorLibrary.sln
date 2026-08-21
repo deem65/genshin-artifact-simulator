@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtifactGeneratorLibrary", "ArtifactGeneratorLibrary.csproj", "{920D79C2-EED3-4041-BB4F-FF15C7E23E17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtifactGeneratorUI", "..\ArtifactGeneratorUI\ArtifactGeneratorUI.csproj", "{DEDD850E-5A2D-46ED-9CF0-203FB6787EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920D79C2-EED3-4041-BB4F-FF15C7E23E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920D79C2-EED3-4041-BB4F-FF15C7E23E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920D79C2-EED3-4041-BB4F-FF15C7E23E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920D79C2-EED3-4041-BB4F-FF15C7E23E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDD850E-5A2D-46ED-9CF0-203FB6787EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDD850E-5A2D-46ED-9CF0-203FB6787EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDD850E-5A2D-46ED-9CF0-203FB6787EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDD850E-5A2D-46ED-9CF0-203FB6787EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DBDA747-50F5-478A-8EA9-562499F3CB49}
+	EndGlobalSection
+EndGlobal
